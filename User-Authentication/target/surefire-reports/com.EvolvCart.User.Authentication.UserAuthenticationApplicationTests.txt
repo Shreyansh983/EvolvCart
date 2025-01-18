@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.EvolvCart.User.Authentication.UserAuthenticationApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.109 s -- in com.EvolvCart.User.Authentication.UserAuthenticationApplicationTests
